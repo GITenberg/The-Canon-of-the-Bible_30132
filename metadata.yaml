@@ -1,0 +1,26 @@
+_repo: The-Canon-of-the-Bible_30132
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Davidson, Samuel
+    birthdate: 1806
+    deathdate: 1898
+    gutenberg_agent_id: '34393'
+    url: http://www.gutenberg.org/2009/agents/34393
+description: ''
+gutenberg_issued: '2009-09-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30132'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible -- Canon'
+- !lcc 'BS'
+title: The Canon of the Bible
+url: http://www.gutenberg.org/ebooks/30132
